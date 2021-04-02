@@ -11,7 +11,7 @@ LiteWarden Security And Safety Management
      :alt: Black code style
 
 
-:License: MIT
+:License: PolyForm Shield License 1.0.0
 
 
 Settings
@@ -110,7 +110,7 @@ See detailed `cookiecutter-django Docker documentation`_.
 
 
 Custom Bootstrap Compilation
-^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The generated CSS is set up with automatic Bootstrap recompilation with variables of your choice.
 Bootstrap v4 is installed using npm and customised by tweaking your variables in ``static/sass/custom_bootstrap_vars``.
