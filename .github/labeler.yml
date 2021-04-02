@@ -1,0 +1,8 @@
+# Project level changes
+documentation: docs/*
+translate: locale/*
+requirement: requirements/*
+source: litewarden/*
+
+# Apps
+lw-reporter: litewarden/lw-reporter/*
