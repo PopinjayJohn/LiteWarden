@@ -3,11 +3,11 @@ LiteWarden
 
 LiteWarden Security And Safety Management
 
-.. image:: https://img.shields.io/github/package-json/v/PopinjayJohn/LiteWarden
-     :alt: GitHub package.json version
 .. image:: https://img.shields.io/sonar/quality_gate/PopinjayJohn_LiteWarden?server=https%3A%2F%2Fsonarcloud.io
      :target: https://sonarcloud.io/dashboard?id=PopinjayJohn_LiteWarden
      :alt: Sonar Quality Gate
+.. image:: https://img.shields.io/github/package-json/v/PopinjayJohn/LiteWarden
+     :alt: GitHub package.json version
 .. image:: https://img.shields.io/github/workflow/status/PopinjayJohn/LiteWarden/CI
      :target: https://github.com/PopinjayJohn/LiteWarden/actions/workflows/ci.yml
      :alt: GitHub Workflow Status
@@ -24,10 +24,22 @@ LiteWarden Security And Safety Management
      :target: https://github.com/ambv/black
      :alt: Black code style
 
-
-
 :License: PolyForm Shield License 1.0.0
 
+
+Quicklinks
+--------
+
+.. image:: https://img.shields.io/github/issues/PopinjayJohn/LiteWarden/help%20wanted?label=Help%20Wanted
+      :target: https://github.com/PopinjayJohn/LiteWarden/labels/help%20wanted
+      :alt: GitHub help wanted issues
+.. image:: https://img.shields.io/github/issues/PopinjayJohn/LiteWarden/Priority:%20Blocker?label=Blockers
+     :target: https://github.com/PopinjayJohn/LiteWarden/labels/Priority%3A%20Blocker
+     :alt: GitHub blocker issues
+.. image:: https://img.shields.io/github/issues/PopinjayJohn/LiteWarden/Priority%3A%20Upcoming?label=Upcoming
+     :target: https://github.com/PopinjayJohn/LiteWarden/labels/Priority%3A%20Upcoming
+     :alt: GitHub upcoming release issues
+     
 
 Settings
 --------
