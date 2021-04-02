@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=litewarden
+POSTGRES_USER=YhdFoRwYIwDCkmAlxiFZBkzmbFDfZtPU
+POSTGRES_PASSWORD=DHws5BUs6mvPPLMcnSKSFo5x1NIfM8cWWGqkKF2rVedHk0ypUq0lFcfo2XykkrHL
