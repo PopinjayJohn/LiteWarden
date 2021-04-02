@@ -3,12 +3,27 @@ LiteWarden
 
 LiteWarden Security And Safety Management
 
+.. image:: https://img.shields.io/github/package-json/v/PopinjayJohn/LiteWarden
+     :alt: GitHub package.json version
+.. image:: https://img.shields.io/sonar/quality_gate/PopinjayJohn_LiteWarden?server=https%3A%2F%2Fsonarcloud.io
+     :target: https://sonarcloud.io/dashboard?id=PopinjayJohn_LiteWarden
+     :alt: Sonar Quality Gate
+.. image:: https://img.shields.io/github/workflow/status/PopinjayJohn/LiteWarden/CI
+     :target: https://github.com/PopinjayJohn/LiteWarden/actions/workflows/ci.yml
+     :alt: GitHub Workflow Status
+.. image:: https://img.shields.io/requires/github/PopinjayJohn/LiteWarden
+     :target: https://requires.io/github/PopinjayJohn/LiteWarden/requirements/?branch=main
+     :alt: Requires.io
+.. image:: https://img.shields.io/github/milestones/progress-percent/PopinjayJohn/LiteWarden/1?label=Next%20Milestone
+     :target: https://github.com/PopinjayJohn/LiteWarden/milestone/1
+     :alt: GitHub milestone
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter
      :target: https://github.com/pydanny/cookiecutter-django/
      :alt: Built with Cookiecutter Django
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
      :target: https://github.com/ambv/black
      :alt: Black code style
+
 
 
 :License: PolyForm Shield License 1.0.0
