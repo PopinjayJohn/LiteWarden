@@ -30,7 +30,7 @@ LiteWarden Security And Safety Management
 
 
 Quicklinks
---------
+----------
 
 .. image:: https://img.shields.io/github/issues/PopinjayJohn/LiteWarden/help%20wanted?label=Help%20Wanted
       :target: https://github.com/PopinjayJohn/LiteWarden/labels/help%20wanted
@@ -41,7 +41,7 @@ Quicklinks
 .. image:: https://img.shields.io/github/issues/PopinjayJohn/LiteWarden/Priority%3A%20Upcoming?label=Upcoming
      :target: https://github.com/PopinjayJohn/LiteWarden/labels/Priority%3A%20Upcoming
      :alt: GitHub upcoming release issues
-     
+
 
 Settings
 --------
@@ -152,5 +152,3 @@ Bootstrap's javascript as well as its dependencies is concatenated into a single
 
 .. _in the bootstrap source: https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
 .. _Bootstrap docs: https://getbootstrap.com/docs/4.1/getting-started/theming/
-
-
