@@ -10,11 +10,7 @@ from django.urls import reverse
 from litewarden.users.forms import UserChangeForm
 from litewarden.users.models import User
 from litewarden.users.tests.factories import UserFactory
-from litewarden.users.views import (
-    UserRedirectView,
-    UserUpdateView,
-    user_detail_view,
-)
+from litewarden.users.views import UserRedirectView, UserUpdateView, user_detail_view
 
 pytestmark = pytest.mark.django_db
 
