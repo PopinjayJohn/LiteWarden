@@ -29,7 +29,7 @@ http:
   routers:
     web-secure-router:
       rule: "Host(`litewarden.com`) || Host(`www.litewarden.com`)"
-      
+
       entryPoints:
         - web-secure
       middlewares:
