@@ -3,7 +3,6 @@ LiteWarden
 
 LiteWarden Security And Safety Management
 
-
 .. image:: https://img.shields.io/sonar/quality_gate/PopinjayJohn_LiteWarden?server=https%3A%2F%2Fsonarcloud.io
      :target: https://sonarcloud.io/dashboard?id=PopinjayJohn_LiteWarden
      :alt: Sonar Quality Gate
@@ -19,6 +18,9 @@ LiteWarden Security And Safety Management
 .. image:: https://img.shields.io/github/milestones/progress-percent/PopinjayJohn/LiteWarden/1?label=Next%20Milestone
      :target: https://github.com/PopinjayJohn/LiteWarden/milestone/1
      :alt: GitHub milestone
+
+:License: PolyForm Shield License 1.0.0
+
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter
      :target: https://github.com/pydanny/cookiecutter-django/
      :alt: Built with Cookiecutter Django
@@ -26,10 +28,7 @@ LiteWarden Security And Safety Management
      :target: https://github.com/ambv/black
      :alt: Black code style
 
-:License: PolyForm Shield License 1.0.0
-
-
-Quicklinks
+Shortcuts
 ----------
 
 .. image:: https://img.shields.io/github/issues/PopinjayJohn/LiteWarden/help%20wanted?label=Help%20Wanted
@@ -42,6 +41,8 @@ Quicklinks
      :target: https://github.com/PopinjayJohn/LiteWarden/labels/Priority%3A%20Upcoming
      :alt: GitHub upcoming release issues
 
+.. contents::
+   Table of Contents
 
 Settings
 --------
